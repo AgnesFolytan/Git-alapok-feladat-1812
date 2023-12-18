@@ -11,4 +11,4 @@ while (szam != 0)
 	lista.Add(szam);
 
 }
-Console.WriteLine(lista.Min());
+Console.WriteLine(lista.Max());
